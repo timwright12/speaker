@@ -1,7 +1,9 @@
 # Speaker
 A small app that uses the speechSynthesis API to read content aloud
 
-Demo: http://csskarma.com/speaker/
+**3rd Party Libraries**: [Simple HTML Dom](http://simplehtmldom.sourceforge.net/)
+
+**Demo**: http://csskarma.com/speaker/
 
 ## Dependencies
 PHP if you want to use the URL reader, otherwise you don't need anything (I guess you need JavaScript)
